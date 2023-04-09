@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/kavithags/toxic-data-x2022gwt
 
 https://www.kaggle.com/code/kavithags/x2022-gwt-reproducable/notebook?scriptVersionId=124978323
 
-### INSTRUCTIONS TO RUN THE KAAGLE CODE 
+### INSTRUCTIONS TO RUN THE KAGGLE CODE 
 
 1. Open the above link.
 2. Click edit to run the code.
