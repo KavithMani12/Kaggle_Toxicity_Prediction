@@ -13,8 +13,9 @@ https://www.kaggle.com/code/kavithags/x2022-gwt-reproducable/notebook?scriptVers
 
 ### INSTRUCTIONS TO RUN THE KAAGLE CODE 
 
-1. OPEN THE FOLLOWING LINK 
-2. CLICK ON EDIT ON THE TOP OF THE LINK WHICH WILL CREATE A FORK OF THE IMAGE. 
-3. AFTER CREATING FORK CHECK IF THE DATASET IS MOUNTED TO FOLDERS. 
-4. START RUNNING THE CODE TO GENERATE THE OUTPUT FILE. 
+1. Open the above link.
+2. Click edit to run the code.
+3. Check if the dataset is mounted to folders
+4. Run the code to generate the output file.
+
 
